@@ -1,7 +1,5 @@
 # Introduction to Data Science 1
 
-## Course Information
-
 - **Instructor:** Dr. Slava Novgorodov
 - **Prerequisites:** 
   - Python programming (CS1 or equivalent)
